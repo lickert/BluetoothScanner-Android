@@ -4,4 +4,7 @@
     <string name="mac">MAC:</string>
     <string name="name">Name:</string>
     <string name="uuid">UUID:</string>
+    <string name="bluetooth_status">Bluetooth Status</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="show_paired_devices">Show Paired Devices</string>
 </resources>
